@@ -4,4 +4,4 @@
 <b>Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.
   <p align="center"> <img src=plots.webp width=780px height=200px></p>
 Matplotlib can be used in Python scripts, the Python and IPython shell, web application servers, and various graphical user interface toolkits.
- Matplotlib is very common to use in Data Science and Machine Learning 🧠 <b>
+ Matplotlib helps you to understand your data and very common to use in Data Science and Machine Learning  🧠 <b>
